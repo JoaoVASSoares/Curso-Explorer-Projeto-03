@@ -9,5 +9,5 @@ O objetivo deste projeto é transcrever o seguinte projeto do figma!
 </p>
 
 ### Contato: joaovitoralmeidas@hotmail.com     
-### Creditos do projeto: Rocktseat.!
+### Creditos do projeto: Rocktseat!
 
